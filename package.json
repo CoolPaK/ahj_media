@@ -16,7 +16,7 @@
   "keywords": [],
   "author": "coolpak",
   "license": "ISC",
-  "homepage": "",
+  "homepage": "git@github.com:CoolPaK/ahj_media.git",
   "devDependencies": {
     "@babel/cli": "^7.12.10",
     "@babel/core": "^7.12.10",
